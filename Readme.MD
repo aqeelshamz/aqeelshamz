@@ -1,7 +1,6 @@
 ### I'm Aqeel!
 	
 - Full Stack | Flutter Dev
--->
 
  ## Connect me with
 [<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/evolvingkid/evolvingkid/blob/master/87390.png" />][website]
