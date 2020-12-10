@@ -3,12 +3,12 @@
 - Full Stack | Flutter Dev
 
  ## Connect me with
-[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/evolvingkid/evolvingkid/blob/master/87390.png" />][website]
+[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/instagramLogo.png" />][website]
 <br/>
 
 ### Languages:
-[<img align="left" alt="x" width="26px" src="https://github.com/evolvingkid/evolvingkid/blob/master/download.png" />][aqeelshamz]
-[<img align="left" alt="x" width="26px" src="https://github.com/evolvingkid/evolvingkid/blob/master/hiclipart.com.png" />][aqeelshamz]
+[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/flutterLogo.png" />][aqeelshamz]
+[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/nodeJSLogo.png" />][aqeelshamz]
 
 
 <br/>
