@@ -6,7 +6,9 @@
 [<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/instagramLogo.png" />][website]
 <br/>
 
-### Languages:
+### My Stack:
+[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/mongoDBLogo.png" />][aqeelshamz]
+[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/expressJSLogo.png" />][aqeelshamz]
 [<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/flutterLogo.png" />][aqeelshamz]
 [<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/nodeJSLogo.png" />][aqeelshamz]
 
