@@ -3,8 +3,8 @@
 - Flutter Developer | Full Stack
 
  ## Connect me with
-[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/instagramLogo.png" />][website]
-[<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/stackoverflowLogo.png" />][website]
+[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/instagramLogo.png" />][instagram]
+[<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/stackoverflowLogo.png" />][stackoverflow]
 <br/>
 
 ### My Stack:
@@ -21,5 +21,6 @@
 
 
 
-[website]: https://www.instagram.com/aqeelshamz/
+[instagram]: https://www.instagram.com/aqeelshamz/
+[stackoverflow]: https://stackoverflow.com/users/11350679/aqeel/
 [aqeelshamz]: https://github.com/aqeelshamz
