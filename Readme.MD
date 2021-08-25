@@ -20,7 +20,7 @@
 <br/>
 <br/>
 <br/>
-[<img width="250px" align="left" alt="BuyMeACoffee" src="https://raw.githubusercontent.com/aqeelshamz/projects-src/main/buymeacoffee.png" />][buymeacoffee]
+[<img width="250px" alt="BuyMeACoffee" src="https://raw.githubusercontent.com/aqeelshamz/projects-src/main/buymeacoffee.png" />][buymeacoffee]
 
 
 
