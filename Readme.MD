@@ -17,7 +17,7 @@
 <br/>
 <br/>
 <img align="left" alt="Aqeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&hide_border=true" />
-[<img align="left" alt="BuyMeACoffee" src="https://raw.githubusercontent.com/aqeelshamz/projects-src/main/buymeacoffee.png" />][buymeacoffee]
+[<img style="width: 250px; border-radius:30px;" align="left" alt="BuyMeACoffee" src="https://raw.githubusercontent.com/aqeelshamz/projects-src/main/buymeacoffee.png" />][buymeacoffee]
 
 
 
