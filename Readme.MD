@@ -1,4 +1,4 @@
-### Hello World! I'm Aqeel.
+### Hi there, I'm Aqeel.
 	
 - Full Stack Developer
 
