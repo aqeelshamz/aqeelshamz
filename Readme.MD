@@ -14,7 +14,7 @@
 [<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/nodeJSLogo.png" />][aqeelshamz]
 <br/>
 <hr/>
-<img alt="Aqeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&hide_border=true&theme=gotham" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&layout=compact" />
+<img alt="Aqeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&hide_border=true&theme=gotham" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&layout=compact&theme=gotham" />
 
 
 [instagram]: https://www.instagram.com/aqeelshamz/
