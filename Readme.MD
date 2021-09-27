@@ -15,6 +15,8 @@
 <br/>
 <hr/>
 <img align="left" alt="Aqeel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&hide_border=true&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
 
 [instagram]: https://www.instagram.com/aqeelshamz/
 [stackoverflow]: https://stackoverflow.com/users/11350679/aqeel/
