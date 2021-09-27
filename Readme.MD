@@ -15,8 +15,7 @@
 <br/>
 <hr/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Aqeel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&layout=compact&theme=gotham&hide_border=true" /> |
-| ------------- | ------------- |
+<a href="https://github.com/aqeelshamz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Aqeel's GitHub stats" /></a> | <a href="https://github.com/aqeelshamz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&layout=compact&theme=gotham&hide_border=true" /></a>
 
 
 [instagram]: https://www.instagram.com/aqeelshamz/
