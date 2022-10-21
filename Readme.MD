@@ -5,7 +5,7 @@
 
 ## Connect me with
 
-[<img align="left" alt="https://www.linkedin.com/in/aqeel-shamsudheen-90a886229/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/linkedinLogo.png"/>][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/aqeel-shamsudheen-90a886229/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/instagramLogo.png"/>][linkedin]
 
 [<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/stackoverflowLogo.png" />][stackoverflow]
 
