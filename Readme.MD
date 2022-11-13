@@ -3,7 +3,7 @@
 	
 - Full Stack Developer
 
-## Connect me with
+## Connect with me
 
 [<img align="left" alt="https://www.linkedin.com/in/aqeel-shamsudheen-90a886229/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/linkedinLogo.png"/>][linkedin]
 
