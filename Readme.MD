@@ -30,4 +30,4 @@
 [aqeelshamz]: https://github.com/aqeelshamz
 [buymeacoffee]: https://www.buymeacoffee.com/aqeelshamz
 [envato]: https://codecanyon.net/user/aqeelshamz/portfolio
-[linkedin]: https://www.linkedin.com/in/aqeel-shamsudheen-90a886229/
+[linkedin]: https://www.linkedin.com/in/aqeelshamz/
