@@ -1,7 +1,5 @@
-
-### Hi there, I'm Aqeel.
-	
-- Full Stack Developer
+# Hey, I'm Aqeel
+### Full Stack Dev
 
 ## Connect with me
 
