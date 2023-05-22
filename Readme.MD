@@ -11,11 +11,11 @@
 <br/>
 
 ## Tech Stack:
-[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/mongoDBLogo.png" />][aqeelshamz]
-[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/expressJSLogo.png" />][aqeelshamz]
-[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/flutterLogo.png" />][aqeelshamz]
-[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/reactLogo.png" />][aqeelshamz]
-[<img align="left" alt="x" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/nodeJSLogo.png" />][aqeelshamz]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/mongoDBLogo.png" />][aqeelshamz]
+[<img align="left" alt="ExpressJS" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/expressJSLogo.png" />][aqeelshamz]
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/flutterLogo.png" />][aqeelshamz]
+[<img align="left" alt="ReactJS" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/reactLogo.png" />][aqeelshamz]
+[<img align="left" alt="NodeJS" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/nodeJSLogo.png" />][aqeelshamz]
 <br/>
 <hr/>
 
