@@ -1,9 +1,8 @@
-```
-{
-    "name": "Aqeel",
-    "role": "Full Stack Developer 👨‍💻"
-}
-```
+### ```{```
+### ```    "name": "Aqeel",```
+### ```    "role": "Full Stack Developer 👨‍💻"```
+### ```}```
+<br/>
 
 ### ```{ "Connect with me" : [```
 
