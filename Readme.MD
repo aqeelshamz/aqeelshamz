@@ -4,8 +4,6 @@
     "role": "Full Stack Developer 👨‍💻"
 }
 ```
-<br/>
-
 
 ### ```{ "Connect with me" : [```
 
@@ -16,7 +14,6 @@
 [<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="./instagram.png" />][instagram]
 <br/>
 ### ```]}```
-<br/>
 
 ### ```{ "Languages & Tools" : [```
 [<img align="left" alt="Javascript" width="26px" src="./javascript.png" />][aqeelshamz]
