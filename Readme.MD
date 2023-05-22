@@ -3,7 +3,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="https://www.linkedin.com/in/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/linkedinLogo.png"/>][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/aqeelshamz/" width="22px" src="./linkedinLogo.png"/>][linkedin]
 
 [<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/stackoverflowLogo.png" />][stackoverflow]
 
