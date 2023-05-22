@@ -1,22 +1,35 @@
-# Hey, I'm Aqeel
-### Full Stack Dev
-
-## Connect with me
-
-[<img align="left" alt="https://www.linkedin.com/in/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/linkedinLogo.png"/>][linkedin]
-
-[<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/stackoverflowLogo.png" />][stackoverflow]
-
-[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/instagramLogo.png" />][instagram]
+```
+{
+    "name": "Aqeel",
+    "role": "Full Stack Developer 👨‍💻"
+}
+```
 <br/>
 
-## Tech Stack:
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/mongoDBLogo.png" />][aqeelshamz]
-[<img align="left" alt="ExpressJS" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/expressJSLogo.png" />][aqeelshamz]
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/flutterLogo.png" />][aqeelshamz]
-[<img align="left" alt="ReactJS" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/reactLogo.png" />][aqeelshamz]
-[<img align="left" alt="NodeJS" width="26px" src="https://github.com/aqeelshamz/aqeelshamz/blob/main/nodeJSLogo.png" />][aqeelshamz]
+
+### ```{ "Connect with me" : [```
+
+[<img align="left" alt="https://www.linkedin.com/in/aqeelshamz/" width="22px" src="./linkedin.png"/>][linkedin]
+
+[<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="./stackoverflow.png" />][stackoverflow]
+
+[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="./instagram.png" />][instagram]
 <br/>
+### ```]}```
+<br/>
+
+### ```{ "Languages & Tools" : [```
+[<img align="left" alt="Javascript" width="26px" src="./javascript.png" />][aqeelshamz]
+[<img align="left" alt="Typescript" width="26px" src="./typescript.png" />][aqeelshamz]
+[<img align="left" alt="Flutter" width="26px" src="./flutter.png" />][aqeelshamz]
+[<img align="left" alt="ReactJS" width="26px" src="./reactjs.png" />][aqeelshamz]
+[<img align="left" alt="NextJS" width="26px" src="./nextjs.png" />][aqeelshamz]
+[<img align="left" alt="NodeJS" width="26px" src="./nodejs.png" />][aqeelshamz]
+[<img align="left" alt="MongoDB" width="26px" src="./mongodb.png" />][aqeelshamz]
+[<img align="left" alt="ExpressJS" width="26px" src="./expressjs.png" />][aqeelshamz]
+[<img align="left" alt="Tailwind" width="26px" src="./tailwind.png" />][aqeelshamz]
+<br/>
+### ```]}```
 <hr/>
 
 | <a href="https://github.com/aqeelshamz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aqeelshamz&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Aqeel's GitHub stats" /></a> | <a href="https://github.com/aqeelshamz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&layout=compact&theme=gotham&hide_border=true" /></a> |
