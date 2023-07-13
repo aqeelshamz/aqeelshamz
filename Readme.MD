@@ -26,7 +26,6 @@
 [<img align="left" alt="Tailwind" width="26px" src="./tailwind.png" />][aqeelshamz]
 <br/>
 ### ```]}```
-<hr/>
 
 [instagram]: https://www.instagram.com/aqeelshamz/
 [stackoverflow]: https://stackoverflow.com/users/11350679/aqeel/
