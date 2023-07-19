@@ -1,8 +1,5 @@
-### ```{```
-### ```    "name": "Aqeel",```
-### ```    "role": "Full Stack Developer 👨‍💻"```
-### ```}```
-<br/>
+# Hi 👋, I'm Aqeel!
+## Freelancer | Full Stack Developer
 
 ### ```{ "Connect with me" : [```
 
