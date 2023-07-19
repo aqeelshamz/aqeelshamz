@@ -27,7 +27,10 @@
 <br/>
 ### ```]}```
 
+![aqeelshamz's Stats](https://github-readme-stats.vercel.app/api?username=aqeelshamz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![aqeelshamz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqeelshamz&theme=vue-dark&hide_border=true)
+
 ![aqeelshamz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [instagram]: https://www.instagram.com/aqeelshamz/
