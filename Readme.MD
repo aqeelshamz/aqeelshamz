@@ -8,6 +8,8 @@
 [<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="./stackoverflow.png" />][stackoverflow]
 
 [<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="./instagram.png" />][instagram]
+
+[<img align="left" alt="mailto:aqeelten@gmail.com" width="22px" src="https://cdn3d.iconscout.com/3d/premium/thumb/email-6684106-5523022.png" />][instagram]
 <br/>
 
 ## Languages & Tools:
@@ -29,6 +31,7 @@
 ![aqeelshamz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqeelshamz&theme=vue-dark&hide_border=true)
 
 [instagram]: https://www.instagram.com/aqeelshamz/
+[email]: mailto:aqeelten@gmail.com
 [stackoverflow]: https://stackoverflow.com/users/11350679/aqeel/
 [aqeelshamz]: https://github.com/aqeelshamz
 [buymeacoffee]: https://www.buymeacoffee.com/aqeelshamz
