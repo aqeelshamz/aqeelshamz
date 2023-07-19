@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Javascript" width="26px" src="./javascript.png" />][aqeelshamz]
 [<img align="left" alt="Typescript" width="26px" src="./typescript.png" />][aqeelshamz]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-flutter-5562357-4642761.png?f=webp" />][aqeelshamz]
+[<img align="left" alt="Flutter" width="26px" src="./flutter.png" />][aqeelshamz]
 [<img align="left" alt="ReactJS" width="26px" src="./reactjs.png" />][aqeelshamz]
 [<img align="left" alt="NextJS" width="26px" src="./nextjs.png" />][aqeelshamz]
 [<img align="left" alt="NodeJS" width="26px" src="./nodejs.png" />][aqeelshamz]
