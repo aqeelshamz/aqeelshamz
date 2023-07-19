@@ -8,6 +8,7 @@
 [<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="./stackoverflow.png" />][stackoverflow]
 
 [<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="./instagram.png" />][instagram]
+<br/>
 
 ## Languages & Tools:
 
@@ -20,6 +21,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="./mongodb.png" />][aqeelshamz]
 [<img align="left" alt="ExpressJS" width="26px" src="./expressjs.png" />][aqeelshamz]
 [<img align="left" alt="Tailwind" width="26px" src="./tailwind.png" />][aqeelshamz]
+<br/>
 
 ![aqeelshamz's Stats](https://github-readme-stats.vercel.app/api?username=aqeelshamz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![aqeelshamz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
