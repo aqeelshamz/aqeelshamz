@@ -27,6 +27,9 @@
 <br/>
 ### ```]}```
 
+![aqeelshamz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqeelshamz&theme=vue-dark&hide_border=true)
+![aqeelshamz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 [instagram]: https://www.instagram.com/aqeelshamz/
 [stackoverflow]: https://stackoverflow.com/users/11350679/aqeel/
 [aqeelshamz]: https://github.com/aqeelshamz
