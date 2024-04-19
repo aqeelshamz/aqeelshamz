@@ -7,7 +7,7 @@
 
 [<img align="left" alt="https://stackoverflow.com/users/11350679/aqeel" width="22px" src="./stackoverflow.png" />][stackoverflow]
 
-[<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="./instagram.png" />][instagram]
+[comment]: <> ([<img align="left" alt="https://www.instagram.com/aqeelshamz/" width="22px" src="./instagram.png" />][instagram])
 
 [<img align="left" alt="mailto:aqeelten@gmail.com" width="22px" src="https://cdn3d.iconscout.com/3d/premium/thumb/email-6684106-5523022.png" />][email]
 <br/>
