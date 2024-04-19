@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aqeel!
+# I'm Aqeel.
 ## CS Student | Freelancer | Full Stack Developer
 
 ## Connect with me:
