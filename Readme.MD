@@ -1,5 +1,5 @@
 # I'm Aqeel.
-## CS Student | Freelancer | Full Stack Developer
+## CS Student | Full Stack Developer
 
 ## Connect with me:
 
