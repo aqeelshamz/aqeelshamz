@@ -1,5 +1,4 @@
 # Aqeel Shamsudheen
-## CS Student | Full Stack Developer
 
 ## Connect with me:
 
