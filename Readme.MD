@@ -4,17 +4,7 @@
 
 I'm a passionate full-stack developer and entrepreneur with expertise in mobile app development, AI-powered platforms, and enterprise SaaS solutions. I specialize in building innovative solutions that bridge cutting-edge technology with real-world needs.
 
-### 🎯 What I Do
-
-- 📱 **Mobile App Development** - Flutter & React Native applications with many live apps on stores
-- 🌐 **Web Development** - Next.js, React, and Node.js applications with scalable architectures  
-- 🤖 **AI Integration** - GenAI-powered platforms
-- 🏢 **Enterprise SaaS** - Comprehensive business solutions
-- 📚 **Educational Technology** - EduTech Platforms (Mobile & Web)
-- 🔐 **Security Tools** - Android reverse engineering studios and cybersecurity applications
-
-
-### 🛠️ Technical Stack
+### 🛠️ Tech Stack
 
 #### Languages & Frameworks
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -57,4 +47,5 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
 
 </div>
+
 
