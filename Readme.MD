@@ -24,7 +24,6 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 #### AI & Emerging Tech
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-00D4FF?style=for-the-badge&logo=network-wired&logoColor=white)
 
 ### 📊 GitHub Stats
 
@@ -47,5 +46,6 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
 
 </div>
+
 
 
