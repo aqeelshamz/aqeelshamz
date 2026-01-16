@@ -4,16 +4,17 @@
 
 I build complete products on my own — from mobile apps and web dashboards to backend APIs and databases.
 
-I mostly work with **Flutter, Node.js, and MongoDB**, and I enjoy owning the full product loop:  
+I mostly work with **Next.js, Flutter, Node.js, and MongoDB**, and I enjoy owning the full product loop:  
 **idea → design → build → deploy**.
 
 ---
 
 ### 🧠 What I Like Building
 
-- 📱 Mobile apps with real users (Flutter)
-- ⚙️ Backend systems & APIs (Node.js, MongoDB)
 - 🧩 Full product ecosystems, not just isolated features
+- 🖥️ Web apps (Next.js)
+- 📱 Mobile apps (Flutter)
+- ⚙️ Backend systems & APIs (Node.js, MongoDB)
 - 🤖 Practical AI integrations
 - 🔐 Ethical cybersecurity & vulnerability research (CTFs, bug hunting)
 
@@ -62,5 +63,6 @@ I mostly work with **Flutter, Node.js, and MongoDB**, and I enjoy owning the ful
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11350679/aqeel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelten@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
+
 
 
