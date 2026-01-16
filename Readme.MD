@@ -41,14 +41,6 @@ I mostly work with **Flutter, Node.js, and MongoDB**, and I enjoy owning the ful
 
 ---
 
-### 📌 Current & Past Work
-
-- 🎓 **WixzelEdu** — learning platform & LMS ecosystem (current focus)
-- 🚀 **Zaptox** — gamified self-improvement & accountability app (1+ year solo build)
-- 🧠 **EvaluateAI (Envato CodeCanyon)** — AI answer-sheet evaluator (commercial sales)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -70,4 +62,5 @@ I mostly work with **Flutter, Node.js, and MongoDB**, and I enjoy owning the ful
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11350679/aqeel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelten@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
+
 
