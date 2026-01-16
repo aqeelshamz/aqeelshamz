@@ -7,8 +7,6 @@ I build complete products on my own — from mobile apps and web dashboards to b
 I mostly work with **Flutter, Node.js, and MongoDB**, and I enjoy owning the full product loop:  
 **idea → design → build → deploy**.
 
-Currently building **WixzelEdu** and experimenting with AI-powered and accountability-driven product ideas.
-
 ---
 
 ### 🧠 What I Like Building
@@ -72,3 +70,4 @@ Currently building **WixzelEdu** and experimenting with AI-powered and accountab
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11350679/aqeel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelten@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
+
