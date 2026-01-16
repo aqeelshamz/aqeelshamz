@@ -1,8 +1,25 @@
-# Hi there, I'm Aqeel Shamsudheen! 👋
+# Hi there, I'm Aqeel Shamsudheen 👋
 
-## 🚀 Full Stack Developer & Entrepreneur
+## 🧩 Indie Product Builder • Full-Stack & Mobile
 
-I'm a passionate full-stack developer and entrepreneur with expertise in mobile app development, AI-powered platforms, and enterprise SaaS solutions. I specialize in building innovative solutions that bridge cutting-edge technology with real-world needs.
+I build complete products on my own — from mobile apps and web dashboards to backend APIs and databases.
+
+I mostly work with **Flutter, Node.js, and MongoDB**, and I enjoy owning the full product loop:  
+**idea → design → build → deploy**.
+
+Currently building **WixzelEdu** and experimenting with AI-powered and accountability-driven product ideas.
+
+---
+
+### 🧠 What I Like Building
+
+- 📱 Mobile apps with real users (Flutter)
+- ⚙️ Backend systems & APIs (Node.js, MongoDB)
+- 🧩 Full product ecosystems, not just isolated features
+- 🤖 Practical AI integrations
+- 🔐 Ethical cybersecurity & vulnerability research (CTFs, bug hunting)
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -11,7 +28,6 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -21,9 +37,19 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### AI & Emerging Tech
+#### AI & Security
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Ethical%20Hacking](https://img.shields.io/badge/Ethical_Hacking-111111?style=for-the-badge&logo=hackaday&logoColor=white)
+
+---
+
+### 📌 Current & Past Work
+
+- 🎓 **WixzelEdu** — learning platform & LMS ecosystem (current focus)
+- 🚀 **Zaptox** — gamified self-improvement & accountability app (1+ year solo build)
+- 🧠 **EvaluateAI (Envato CodeCanyon)** — AI answer-sheet evaluator (commercial sales)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -37,6 +63,8 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 
 </div>
 
+---
+
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aqeelshamz)
@@ -44,8 +72,3 @@ I'm a passionate full-stack developer and entrepreneur with expertise in mobile 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11350679/aqeel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelten@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
-
-</div>
-
-
-
