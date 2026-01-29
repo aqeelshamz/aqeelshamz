@@ -50,7 +50,7 @@ I mostly work with **Next.js, Flutter, Node.js, and MongoDB**, and I enjoy ownin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelshamz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqeelshamz&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aqeelshamz&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -63,6 +63,7 @@ I mostly work with **Next.js, Flutter, Node.js, and MongoDB**, and I enjoy ownin
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11350679/aqeel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelten@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
+
 
 
 
