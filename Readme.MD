@@ -9,7 +9,7 @@ I mostly work with **Next.js, Flutter, Node.js, and MongoDB**, and I enjoy ownin
 
 ---
 
-### 🧠 What I Like Building
+### 🧠 What I love to do
 
 - 🧩 Full product ecosystems, not just isolated features
 - 🖥️ Web apps (Next.js)
@@ -63,6 +63,7 @@ I mostly work with **Next.js, Flutter, Node.js, and MongoDB**, and I enjoy ownin
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11350679/aqeel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeelten@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://aqeelshamz.com)
+
 
 
 
